@@ -1,0 +1,12 @@
+El for es un bloque de repeticion en donde se realiza una tarea n veces hasta que se cumpla una condición. En ése momento se rompe el ciclo y retorna a la siguiente linea o instrucción denuestro codigo.
+
+existen condicionales para poder comparar valores entre variables como lo son los siguientes simbolos:
+
+&& --> y
+    ej. si es un chicle && (y) sabor sandía
+
+|| ---> ó
+    ej. es verde || (ó) amarillo
+
+! ----> Distinto
+    ej. mientras el platano !maduro (distinto a maduro) está verde, dejar madurar para consumir.
